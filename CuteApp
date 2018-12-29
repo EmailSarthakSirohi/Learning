@@ -1,0 +1,25 @@
+Name
+{
+  Cute App
+}
+
+Base Features
+{
+Save
+Edit
+Delete
+}
+
+CouldHave Features
+{
+Cart
+Credit Card
+}
+
+MustHave Features
+{
+Searc
+Catalog
+}
+
+Lets Start
